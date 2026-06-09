@@ -1,0 +1,43 @@
+payload:
+    # xAI (Grok)
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.x.ai
+  - DOMAIN-SUFFIX,api.x.ai
+  - DOMAIN-KEYWORD,grok
+    # Hugging Face
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,hf.space
+  - DOMAIN-SUFFIX,huggingface.com
+  - DOMAIN-KEYWORD,huggingface
+    # Midjourney и другие ИИ для изображений
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-SUFFIX,cdn.midjourney.com
+  - DOMAIN-KEYWORD,midjourney
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,stablediffusionweb.com
+  - DOMAIN-SUFFIX,dreamstudio.ai
+  - DOMAIN-SUFFIX,runwayml.com
+  - DOMAIN-SUFFIX,runway.ml
+    # Character.AI и другие
+  - DOMAIN-SUFFIX,character.ai
+  - DOMAIN-SUFFIX,beta.character.ai
+  - DOMAIN-SUFFIX,replicate.com
+  - DOMAIN-SUFFIX,cohere.ai
+  - DOMAIN-SUFFIX,cohere.com
+    # Tools for programmers
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,replit.com
+  - DOMAIN-SUFFIX,repl.it
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerstatic.com
+  - DOMAIN-SUFFIX,compose-spec.io
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,pypi.org
+    # Other
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,cloudike.com
+  - DOMAIN-SUFFIX,ntc.party
+  - DOMAIN-SUFFIX,themoviedb.org
