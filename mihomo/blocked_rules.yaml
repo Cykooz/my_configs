@@ -37,8 +37,9 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,pypi.org
     # Other
+  - DOMAIN-SUFFIX,s9.guvenlidepo.vodafone.com.tr    
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,cloudike.com
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,themoviedb.org
-  - DOMAIN-SUFFIX,s9.guvenlidepo.vodafone.com.tr
+
