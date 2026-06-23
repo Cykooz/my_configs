@@ -37,10 +37,7 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,pypi.org
     # Other
-  - DOMAIN-SUFFIX,s9.guvenlidepo.vodafone.com.tr
-  - IP-CIDR,217.31.254.214/32
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,cloudike.com
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,themoviedb.org
-
