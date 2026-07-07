@@ -41,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,cloudike.com
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
