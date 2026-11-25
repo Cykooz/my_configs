@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,atlassian.net
     # Other
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,cloudike.com
